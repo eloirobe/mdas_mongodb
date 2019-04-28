@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/eloirobe/mdas_elasticsearch.svg?style=svg)](https://circleci.com/gh/eloirobe/mdas_elasticsearch)
+[![CircleCI](https://circleci.com/gh/eloirobe/mdas_mongodb.svg?style=svg)](https://circleci.com/gh/eloirobe/mdas_mongodb)
 
 # MDAS NoSQL MongoDB
 Bienvenidos a la imagen de MongoDB para a la asignatura de NoSQL del master [Máster en Desarrollo y Arquitectura de Software (MDAS)](https://www.salleurl.edu/es/estudios/master-en-desarrollo-y-arquitectura-software)
