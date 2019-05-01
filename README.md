@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/eloirobe/mdas_mongodb.svg?style=svg)](https://circleci.com/gh/eloirobe/mdas_mongodb)
 
-# MDAS NoSQL MongoDB <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" width="100">
-Bienvenidos a la imagen de MongoDB para a la asignatura de NoSQL del master [Máster en Desarrollo y Arquitectura de Software (MDAS)](https://www.salleurl.edu/es/estudios/master-en-desarrollo-y-arquitectura-software)
+# MDAS Bases de datos no estructuradas - MongoDB <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" width="100">
+Bienvenidos a la imagen de MongoDB para a la asignatura de Bases de datos no estructuradas del master [Máster en Desarrollo y Arquitectura de Software (MDAS)](https://www.salleurl.edu/es/estudios/master-en-desarrollo-y-arquitectura-software)
 
 Para arrancar el MongoDB y empezar a utilizar la imagen de docker realizar lo siguiente:
 
